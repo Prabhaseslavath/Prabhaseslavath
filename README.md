@@ -1,4 +1,4 @@
-<h2 align="center"Hi, I’m [Your Name], a passionate Java Full Stack Developer with hands-on experience in building scalable web applications using Java, Spring Boot, Hibernate, JSP/Servlets, REST APIs, MySQL, and modern front-end frameworks. I love solving real-world problems by combining strong backend logic with interactive user-friendly frontends.</h2>
+<h2 align="center"Hi, I’m PRABHAS ESLAVATH, a passionate Java Full Stack Developer with hands-on experience in building scalable web applications using Java, Spring Boot, Hibernate, JSP/Servlets, REST APIs, MySQL, and modern front-end frameworks. I love solving real-world problems by combining strong backend logic with interactive user-friendly frontends.</h2>
 
 ###
 
